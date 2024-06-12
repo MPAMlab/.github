@@ -1,10 +1,14 @@
 # MPAM Laboratory
 
-An individual label and management group for **experiments** with all kinds of sensory.
+An individual label & creative lab for **experiments** with all sensory to give special experiences.
+
+[Homepage](https://mpam-lab.xyz)
 
 <br>
 
-[Official Twitter](https://twitter.com/MPAMlab)
+[Official X (formerly Twitter)](https://twitter.com/MPAMlab)
+
+[Official Threads](https://www.threads.net/@mpamlab)
 
 [For Inquiry Use Mail](mailto:i@MPAM-lab.xyz)
 
