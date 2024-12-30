@@ -8,6 +8,8 @@ An individual label & creative lab for **experiments** with all sensory to give 
 
 [Official X (formerly Twitter)](https://twitter.com/MPAMlab)
 
+[Official Bluesky](https://bsky.app/profile/mpam-lab.xyz)
+
 [Official Threads](https://www.threads.net/@mpamlab)
 
 [For Inquiry Use Mail](mailto:i@MPAM-lab.xyz)
